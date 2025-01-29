@@ -1,2 +1,4 @@
+__pycache__/
 .idea/
-oracle/*.zip
+.mypy_cache/
+.ruff_cache/
